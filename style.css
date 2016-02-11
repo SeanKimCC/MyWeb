@@ -34,6 +34,13 @@
             width: 430px;
             height: 430px;
         }
+        p
+        {
+            font-family: Oswald;
+            margin-left: 15px;
+            text-align: left;
+            
+        }
         html
         {
             max-width: 2000px;
@@ -84,14 +91,16 @@
         }
         h1
         {
-            font-family: sans-serif;
-            text-align: center;
+            font-family: Ubuntu;
+            text-align: left;
+            margin-left: 15px;
+            
         }
         div.infoCirclesSection
         {
             margin-top: 150px;
             margin-left: 100px;
-            width: 3000px;
+            width: 2000px;
             position: absolute;
  
             
@@ -140,8 +149,60 @@
         border-radius: 0 0 4px 4px ;
         font-family: Ubuntu;
         }
+        a.clickedTopMenuLink
+        {
+        width: 40px;
+        height: 20px;
+        background-color: #404040;
+        color: white;
+        padding: 10px 20px;
+        text-decoration: none;
+        border-radius: 0 0 4px 4px ;
+        font-family: Ubuntu;
+        }
 
         a.topMenuLink:hover {
         background-color: darkgrey;
         }
-        
+        div.contactEntireSheet
+        {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+        }
+        div.contactSheet
+        {
+            border-style: solid;
+            border-width: 1px;
+            border-color: #BBBB89;
+            margin-top: 180px;
+            margin-left: 100px;
+            height: 400px;
+            width: 600px;
+            background-color: #CCCC9A;
+            bottom: 150px;
+            box-shadow: 10px 10px 8px #505050;
+        }
+        a.githubLink
+        {
+            color: #202020;
+            
+        }
+        embed.resume
+        {
+            width: 375px;
+            height: 500px;
+        }
+        div.resumeDiv
+        {
+            border-style: solid;
+            border-width: 1px;
+            border-color: #BBBB89;
+            margin-top: 80px;
+            margin-left: 500px;
+            height: 500px;
+            width: 375px;
+            background-color: #CCCC9A;
+            bottom: 150px;
+            box-shadow: 10px 10px 8px #505050;
+        }
