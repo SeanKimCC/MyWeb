@@ -1,0 +1,26 @@
+    @font-face
+    {
+        font-family: Ubuntu;
+        src: url(fonts/Ubuntu/Ubuntu-Regular.ttf);
+    }
+    @font-face
+    {
+        font-family: Oswald;
+        src: url(fonts/Oswald/Oswald-Regular.ttf);
+    }
+    @font-face
+    {
+        font-family: Raleway;
+        src: url(fonts/Raleway/Raleway-Regular.ttf);
+    }
+    @font-face
+    {
+        font-family: Slabo;
+        src: url(fonts/Slabo_27px/Slabo27px-Regular.ttf);
+    }
+    @font-face
+    {
+        font-family: Poiret;
+        src: url(fonts/Poiret_One/PoiretOne-Regular.ttf);
+    }
+    
